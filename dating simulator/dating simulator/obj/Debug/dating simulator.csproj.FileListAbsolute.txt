@@ -1,0 +1,7 @@
+C:\Users\kian.asgariamiri\source\repos\dating simulator\dating simulator\bin\Debug\dating simulator.exe.config
+C:\Users\kian.asgariamiri\source\repos\dating simulator\dating simulator\bin\Debug\dating simulator.exe
+C:\Users\kian.asgariamiri\source\repos\dating simulator\dating simulator\bin\Debug\dating simulator.pdb
+C:\Users\kian.asgariamiri\source\repos\dating simulator\dating simulator\obj\Debug\dating simulator.csproj.AssemblyReference.cache
+C:\Users\kian.asgariamiri\source\repos\dating simulator\dating simulator\obj\Debug\dating simulator.csproj.CoreCompileInputs.cache
+C:\Users\kian.asgariamiri\source\repos\dating simulator\dating simulator\obj\Debug\dating simulator.exe
+C:\Users\kian.asgariamiri\source\repos\dating simulator\dating simulator\obj\Debug\dating simulator.pdb

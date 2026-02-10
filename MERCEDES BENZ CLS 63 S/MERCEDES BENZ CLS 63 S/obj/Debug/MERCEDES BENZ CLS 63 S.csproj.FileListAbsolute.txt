@@ -1,0 +1,2 @@
+C:\Users\kian.asgariamiri\source\repos\MERCEDES BENZ CLS 63 S\MERCEDES BENZ CLS 63 S\obj\Debug\MERCEDES BENZ CLS 63 S.csproj.AssemblyReference.cache
+C:\Users\kian.asgariamiri\source\repos\MERCEDES BENZ CLS 63 S\MERCEDES BENZ CLS 63 S\obj\Debug\MERCEDES BENZ CLS 63 S.csproj.CoreCompileInputs.cache
